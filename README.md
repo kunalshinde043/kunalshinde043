@@ -1,6 +1,6 @@
 # Hello Techies, I'm Kunal Shinde 
 
-Transitioning from **Data Engineer → Cloud & DevOps**  
+Transitioning from **Software Engineer → Cloud & DevOps**  
 Passionate about simplifying complex tech concepts with real-world examples  
 Based in Pune, India  
 
