@@ -20,10 +20,15 @@ Based in Pune, India
 - **OS**: Linux (Ubuntu, Amazon Linux)  
 
 ---
-
 ## Projects
-- [**My Portfolio with Nginx Deployment**](https://github.com/kunalshinde043/my_portfolio_nginx) – Deployed a static portfolio site on AWS EC2 with Nginx  
----
+
+| Project | Description | Repository Link |
+|---------|-------------|-----------------|
+| **My Portfolio with Nginx Deployment** | Deployed a static portfolio site on AWS EC2 with Nginx. | [View Repo](https://github.com/kunalshinde043/my_portfolio_nginx) |
+| **Python App Deployment on Amazon Linux** | Deployed a Python Flask app using Gunicorn on Amazon Linux. | [View Repo](https://github.com/kunalshinde043/python-app-deployment-on-amazon-linux) |
+| **WordPress on Amazon Linux** | Installed and configured WordPress with Apache, PHP, and MariaDB on AWS EC2. | [View Repo](https://github.com/kunalshinde043/wordpress-website-on-amazon-linux) |
+| **LEMP Stack Deployment on Ubuntu** | Deployed a high-performance web stack (Linux, Nginx, MariaDB/MySQL, PHP) on Ubuntu EC2. |[View Repo](https://github.com/kunalshinde043/lemp-on-ubuntu) |
+| **LAMP Stack Deployment on Amazon Linux** | Deployed a classic web stack (Linux, Apache, MariaDB/MySQL, PHP) on Amazon Linux EC2. |[View Repo](https://github.com/kunalshinde043/lamp-on-amazon-linux) |
 
 ## GitHub Stats
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalshinde043&show_icons=true&theme=radical)
