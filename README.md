@@ -29,6 +29,8 @@ Based in Pune, India
 | **WordPress on Amazon Linux** | Installed and configured WordPress with Apache, PHP, and MariaDB on AWS EC2. | [View Repo](https://github.com/kunalshinde043/wordpress-website-on-amazon-linux) |
 | **LEMP Stack Deployment on Ubuntu** | Deployed a high-performance web stack (Linux, Nginx, MariaDB/MySQL, PHP) on Ubuntu EC2. |[View Repo](https://github.com/kunalshinde043/lemp-on-ubuntu) |
 | **LAMP Stack Deployment on Amazon Linux** | Deployed a classic web stack (Linux, Apache, MariaDB/MySQL, PHP) on Amazon Linux EC2. |[View Repo](https://github.com/kunalshinde043/lamp-on-amazon-linux) |
+| **Multi-EC2 Deployment with Apache Web Server and Custom Load Balancer** | Deployed multiple EC2 instances running Apache web servers, integrated with a custom load balancer for high availability and traffic distribution. |[View Repo](https://github.com/kunalshinde043/aws-multi-ec2-with-classic-load-balancer) |
+| **Multi-EC2 Apache Deployment with Path-Based Application Load Balancer Routing** | Configured multiple Apache web servers on EC2 instances and implemented an AWS Application Load Balancer with path-based routing to efficiently distribute traffic across target groups. |[View Repo](https://github.com/kunalshinde043/aws-multi-ec2-alb-path-based-routing)|
 
 ## GitHub Stats
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalshinde043&show_icons=true&theme=radical)
