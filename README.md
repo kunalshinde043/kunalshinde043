@@ -31,6 +31,14 @@ Based in Pune, India
 | **LAMP Stack Deployment on Amazon Linux** | Deployed a classic web stack (Linux, Apache, MariaDB/MySQL, PHP) on Amazon Linux EC2. |[View Repo](https://github.com/kunalshinde043/lamp-on-amazon-linux) |
 | **Multi-EC2 Deployment with Apache Web Server and Custom Load Balancer** | Deployed multiple EC2 instances running Apache web servers, integrated with a custom load balancer for high availability and traffic distribution. |[View Repo](https://github.com/kunalshinde043/aws-multi-ec2-with-classic-load-balancer) |
 | **Multi-EC2 Apache Deployment with Path-Based Application Load Balancer Routing** | Configured multiple Apache web servers on EC2 instances and implemented an AWS Application Load Balancer with path-based routing to efficiently distribute traffic across target groups. |[View Repo](https://github.com/kunalshinde043/aws-multi-ec2-alb-path-based-routing)|
+| **AWS Nginx-PHP Web Application with Auto Scaling and Load Balancer** |Deployed a scalable PHP web application on AWS using NGINX, Auto Scaling, and ALB for high availability and performance. |[View Repo](https://github.com/kunalshinde043/aws-nginx-php-webapp-autoscaling-alb)|
+| **AWS VPC Setup with Bastion, MySQL, Nginx, and Git Servers** |Built a secure AWS network infrastructure with custom VPC, public/private subnets, Bastion host, and isolated MySQL, Nginx, and Git servers for controlled access. |[View Repo](https://github.com/kunalshinde043/aws-infra-bastion-vpc-mysql-git-nginx)|
+| **AWS Multi-Region VPC Peering Setup (Frontend & Backend Architecture)** |Designed a multi-region AWS network with VPC peering to enable secure, low-latency communication between regions, ensuring high availability and disaster recovery readiness.. |[View Repo](https://github.com/kunalshinde043/aws-multi-region-vpc-peering-architecture)|
+| **AWS RDS Primary and Read Replica Setup using MariaDB and EC2** |Automated provisioning of Amazon RDS databases with read replicas to enable scalable, highly available, and fault-tolerant relational storage. |[View Repo](https://github.com/kunalshinde043/amazon-rds-creation-with-read-replica)|
+| **AWS RDS Migration from EC2 Local MariaDB Database** |Migrated legacy EC2-hosted databases to Amazon RDS to improve manageability, scalability, and reliability while minimizing downtime.. |[View Repo](https://github.com/kunalshinde043/aws-ec2-to-rds-migration)|
+
+
+
 
 ## GitHub Stats
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalshinde043&show_icons=true&theme=radical)
